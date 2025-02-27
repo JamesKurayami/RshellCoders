@@ -41,7 +41,7 @@ The author will not be responsible for malicious use of this code. Use it at you
 
 1. Clone this repository to your machine: 
    ```bash 
-[ https://github.com/HackfutSec/RshellCoders.git ``` 
+[ https://github.com/JamesKurayami/RshellCoders.git ``` 
 
 2. Navigate to the project directory: 
    ```bash 
@@ -121,8 +121,8 @@ This project is licensed under **MIT**. See the [LICENSE](LICENSE) file for more
 
 ## 📞 Contact 
 
-- **Author**: Hackfut 
-- **Contact**: [Telegram](https://t.me/HackfutSec) 
+- **Author**: D4RKD3MON
+- **Contact**: [Telegram](https://t.me/D4RKD3MON) 
 
 --- 
 
